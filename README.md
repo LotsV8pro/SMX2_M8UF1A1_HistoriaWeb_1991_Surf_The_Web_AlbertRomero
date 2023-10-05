@@ -12,6 +12,8 @@
 
 ![NavegadoresWeb][NavegadoresWeb]
 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #7668AB ;text.align: justify; text-decoration: underline"> **Motores de busqueda**
+
 <!-- Aqui iran enlazes de ref-->
 
 [Surf The Web 1]:https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Surf_The_Web_AlbertRomero/blob/main/Imagenes/SurfTheWeb1.jpeg?raw=true
