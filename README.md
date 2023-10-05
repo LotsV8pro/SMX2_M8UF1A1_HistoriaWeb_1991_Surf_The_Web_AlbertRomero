@@ -12,7 +12,7 @@
 
 ![NavegadoresWeb][NavegadoresWeb]
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #7668AB ;text.align: justify; text-decoration: underline"> **Motores de busqueda**
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #7668AB ;text.align: justify; text-decoration: underline"> **Motores de busqueda**
 
 <p style="text-aligns: justify; color #2b2b2b">
 
