@@ -15,4 +15,5 @@
 <!-- Aqui iran enlazes de ref-->
 
 [Surf The Web 1]:https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Surf_The_Web_AlbertRomero/blob/main/Imagenes/SurfTheWeb1.jpeg?raw=true
-[NavegadoresWeb]:
+
+[NavegadoresWeb]:https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Surf_The_Web_AlbertRomero/blob/main/Imagenes/NavegadoresWeb.jpeg?raw=true
