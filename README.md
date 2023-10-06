@@ -16,7 +16,7 @@
 
 <p style="text-aligns: justify; color #2b2b2b">
 
-Un motor de búsqueda es una herramienta en línea que permite a los usuarios buscar información en la World Wide Web (Internet) utilizando palabras clave o frases. Su función principal es indexar y organizar vastas cantidades de contenido web, como páginas web, documentos, imágenes, videos y más, para luego proporcionar resultados relevantes a las consultas de los usuarios. </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un motor de búsqueda es una herramienta en línea que permite a los usuarios buscar información en la World Wide Web (Internet) utilizando palabras clave o frases. Su función principal es indexar y organizar vastas cantidades de contenido web, como páginas web, documentos, imágenes, videos y más, para luego proporcionar resultados relevantes a las consultas de los usuarios. </p>
 
 ![Motores Busqueda]
 
